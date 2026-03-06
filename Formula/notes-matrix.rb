@@ -1,8 +1,8 @@
 class NotesMatrix < Formula
   desc "Apple Notes to Markdown exporter (TUI/CLI)"
   homepage "https://github.com/PaladinXL/notes-matrix"
-  url "https://github.com/PaladinXL/notes-matrix/releases/download/v0.1.12/notes-matrix-v0.1.12-macos-arm64.tar.gz"
-  sha256 "74c71baf4eee97308ad7bb49fab5b72cec634a1d2d4e4052ea8ed1bea6520c6b"
+  url "https://github.com/PaladinXL/notes-matrix/releases/download/v0.1.13/notes-matrix-v0.1.13-macos-arm64.tar.gz"
+  sha256 "3f6958d4dc072ac9cf8d2e74d9721a5513031e12a7fe9616eceebbc12b7af787"
   license :cannot_represent
 
   def install
